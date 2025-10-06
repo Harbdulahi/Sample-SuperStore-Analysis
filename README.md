@@ -63,7 +63,7 @@ Discount, Total, Profit**
 -  The Technology category (50%) is generating the most profit from the whole category with furniture (7%) making the least profit.
 -  Discount has non to negative impact on sales (pearson correlation = -0.22)
 -  The number of total customer we serve over time is 830, with 95.5% being from the United States and 4.4% from Canada
--  The customer segment that generate the most revenue is **Consumer** with a sales margin of 50%
+-  The Customer Segment that generate the most revenue is **Consumer** with a sales margin of 50%
 
 # Visual
 
