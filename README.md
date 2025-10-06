@@ -64,6 +64,9 @@ Discount, Total, Profit**
 -  Discount has non to negative impact on sales (pearson correlation = -0.22)
 -  The number of total customer we serve over time is 830, with 95.5% being from the United States and 4.4% from Canada
 -  The Customer Segment that generate the most revenue is **Consumer** with a sales margin of 50%
+-  The total orders placed is 5,111.
+-  On average is takes about 4 days to deliver goods to customer
+-  The South region is performing best in terms of sales but with low profit margin, while West being the least performing in terms of sales but an high profit margin and East having the highest profit
 
 # Visual
 
